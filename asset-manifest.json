@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/saimons-dress/static/css/main.87330819.css",
+    "main.js": "/saimons-dress/static/js/main.382c26fc.js",
+    "static/js/787.af1c95f3.chunk.js": "/saimons-dress/static/js/787.af1c95f3.chunk.js",
+    "index.html": "/saimons-dress/index.html",
+    "main.87330819.css.map": "/saimons-dress/static/css/main.87330819.css.map",
+    "main.382c26fc.js.map": "/saimons-dress/static/js/main.382c26fc.js.map",
+    "787.af1c95f3.chunk.js.map": "/saimons-dress/static/js/787.af1c95f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87330819.css",
+    "static/js/main.382c26fc.js"
+  ]
+}

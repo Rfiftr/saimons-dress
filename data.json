@@ -1,0 +1,156 @@
+{
+    "navbarLinks": [
+      { "text": "Home", "url": "/" },
+      { "text": "Introduction", "url": "/introduction" },
+      { "text": "Products", "url": "/products" },
+      { "text": "About", "url": "/about" },
+      { "text": "Contact", "url": "/contact" }
+    ],
+    "homepage": {
+      "title": "Welcome to My Dress Rental",
+      "description": "Rent your dream dress for any occasion."
+    },
+    "introduction": {
+      "title": "Discover Our Collection",
+      "dressCards": [
+        { "id": 1, "image": "display-dress1.jpg", "name": "Elegant Evening Gown" },
+        { "id": 2, "image": "display-dress2.jpg", "name": "Summer Breeze Dress" }
+      ]
+    },
+    "products": {
+      "title": "Browse Our Dresses",
+      "sortingOptions": [
+        { "label": "Newest Arrivals", "value": "newest" },
+        { "label": "Price: Low to High", "value": "low-to-high" },
+        { "label": "Price: High to Low", "value": "high-to-low" }
+      ],
+      "productCards": [
+        {
+          "id": 1,
+          "name": "Elegant Evening Gown",
+          "image": "dress1.webp",
+          "price": 199.99,
+          "color": "Red",
+          "size": "Medium"
+        },
+        {
+          "id": 2,
+          "name": "Elegant Evening Gown",
+          "image": "dress2.webp",
+          "price": 199.99,
+          "color": "yellow",
+          "size": "Medium"
+        },
+        {
+          "id": 3,
+          "name": "Elegant Evening Gown",
+          "image": "dress3.webp",
+          "price": 199.99,
+          "color": "blue",
+          "size": "Medium"
+        },
+        {
+          "id": 4,
+          "name": "Elegant Evening Gown",
+          "image": "dress4.webp",
+          "price": 199.99,
+          "color": "green",
+          "size": "Medium"
+        },
+        {
+          "id": 5,
+          "name": "Elegant Evening Gown",
+          "image": "dress5.webp",
+          "price": 199.99,
+          "color": "Red",
+          "size": "Medium"
+        },
+        {
+          "id": 6,
+          "name": "Elegant Evening Gown",
+          "image": "dress6.webp",
+          "price": 199.99,
+          "color": "Red",
+          "size": "Medium"
+        },
+        {
+          "id": 7,
+          "name": "Elegant Evening Gown",
+          "image": "dress7.webp",
+          "price": 199.99,
+          "color": "Red",
+          "size": "Medium"
+        },
+        {
+          "id": 8,
+          "name": "Elegant Evening Gown",
+          "image": "dress8.webp",
+          "price": 199.99,
+          "color": "Red",
+          "size": "Medium"
+        },
+        {
+          "id": 9,
+          "name": "Elegant Evening Gown",
+          "image": "dress9.webp",
+          "price": 199.99,
+          "color": "Red",
+          "size": "Medium"
+        },
+        {
+          "id": 10,
+          "name": "Elegant Evening Gown",
+          "image": "dress10.webp",
+          "price": 199.99,
+          "color": "Red",
+          "size": "Medium"
+        },
+        {
+          "id": 11,
+          "name": "Elegant Evening Gown",
+          "image": "dress11.webp",
+          "price": 199.99,
+          "color": "Red",
+          "size": "Medium"
+        },
+        {
+          "id": 12,
+          "name": "Elegant Evening Gown",
+          "image": "dress12.webp",
+          "price": 199.99,
+          "color": "Red",
+          "size": "Medium"
+        }
+      ]
+      
+    },
+    "about": {
+      "title": "About Us",
+      "description": "My Dress Rental is a trusted provider of high-quality rental dresses for various occasions."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "formFields": [
+        { "name": "full_name", "label": "Full Name", "type": "text" },
+        { "name": "email", "label": "Email", "type": "email" },
+        { "name": "phone", "label": "Phone", "type": "tel" },
+        { "name": "subject", "label": "Reference Subject", "type": "text" },
+        { "name": "message", "label": "Message", "type": "textarea" }
+      ],
+      "map": {
+        "address": "123 Main St, City, Country",
+        "latitude": 12.345678,
+        "longitude": -45.678901
+      }
+    },
+    "footer": {
+      "builderInfo": "Built with ❤️ by Your Name",
+      "siteLinks": [
+        { "text": "Home", "url": "/" },
+        { "text": "Products", "url": "/products" },
+        { "text": "About", "url": "/about" },
+        { "text": "Contact", "url": "/contact" }
+      ]
+    }
+  }
+  
